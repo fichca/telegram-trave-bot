@@ -11,7 +11,7 @@
 
 # Примечания:
 
-При отправке REST запросов добfвляйте header: "X-Api-Token" value: "1869150978:AAHsE2pyU2GVBGNQ_OUuLpp2pUCdTuH1atk" для получения доступа к сервису.
+При отправке REST запросов добавляйте header: "X-Api-Token" value: "1869150978:AAHsE2pyU2GVBGNQ_OUuLpp2pUCdTuH1atk" для получения доступа к сервису.
 
 
 
