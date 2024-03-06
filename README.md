@@ -1,4 +1,4 @@
-## Запустск приложения:
+## Запуск приложения:
 
 - Установите maven на свой компьютер
 - Соберите проект
@@ -7,11 +7,11 @@
 ## Bot:
 
 - Имя - travel_telegram_fichcaBot;
-- Токен - 1869150978:AAHsE2pyU2GVBGNQ_OUuLpp2pUCdTuH1atk
+- Токен - 
 
 # Примечания:
 
-При отправке REST запросов добавляйте header: "X-Api-Token" value: "1869150978:AAHsE2pyU2GVBGNQ_OUuLpp2pUCdTuH1atk" для получения доступа к сервису.
+При отправке REST запросов добавляйте header: "X-Api-Token" value: "" для получения доступа к сервису.
 
 
 
